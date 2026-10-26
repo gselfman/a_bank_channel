@@ -1,0 +1,17 @@
+[Unit]
+Description=A-Bank Telegram publisher
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=a-bank
+Group=a-bank
+EnvironmentFile=/etc/a-bank-publisher.env
+ExecStart=/usr/bin/python3 /opt/a_bank_channel/publisher/publish.py
+WorkingDirectory=/opt/a_bank_channel
+StateDirectory=a-bank-publisher
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/a-bank-publisher
