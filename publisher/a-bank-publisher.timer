@@ -1,0 +1,10 @@
+[Unit]
+Description=Check A-Bank GitHub queue every minute
+
+[Timer]
+OnCalendar=*-*-* *:*:00
+Persistent=true
+Unit=a-bank-publisher.service
+
+[Install]
+WantedBy=timers.target
