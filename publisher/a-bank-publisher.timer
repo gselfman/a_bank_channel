@@ -1,8 +1,10 @@
 [Unit]
-Description=Check A-Bank GitHub queue every minute
+Description=Publish A-Bank GitHub posts at 09:30, 14:30 and 19:30 Moscow time
 
 [Timer]
-OnCalendar=*-*-* *:*:00
+OnCalendar=*-*-* 09:30:00 Europe/Moscow
+OnCalendar=*-*-* 14:30:00 Europe/Moscow
+OnCalendar=*-*-* 19:30:00 Europe/Moscow
 Persistent=true
 Unit=a-bank-publisher.service
 
