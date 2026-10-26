@@ -1,0 +1,7 @@
+{
+  "type": "connection_test",
+  "created_at": "2026-10-26",
+  "source": "ChatGPT interactive GitHub connector",
+  "publish": false,
+  "notes": "This file verifies interactive write only; scheduled task access remains unverified."
+}
