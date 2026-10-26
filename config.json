@@ -1,0 +1,24 @@
+{
+  "TELEGRAM_CHANNEL": "@a_bank_wallet",
+  "OPENAI_TEXT_MODEL": "gpt-4.1-mini",
+  "OPENAI_IMAGE_MODEL": "gpt-image-1",
+  "source_channel": "altynwallet",
+  "source_pages": ["https://altyn.one/", "https://altyn.one/faq/", "https://altyn.one/card/", "https://a-bank.ru/"],
+  "site_max_pages": 25,
+  "telegram_max_pages": 20,
+  "poll_seconds": 3600,
+  "ai_enabled": false,
+  "ai_images_enabled": false,
+  "drafts_per_poll": 2,
+  "image_quality": "medium",
+  "schedule_enabled": false,
+  "publish_times_moscow": ["10:00"],
+  "initial_spacing_seconds": 5,
+  "ai_budget": {
+    "monthly_usd": 0,
+    "text_reservation_usd": 0,
+    "image_reservation_usd": 0,
+    "text_daily_calls": 4,
+    "image_daily_calls": 2
+  }
+}

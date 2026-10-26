@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+if docker compose version >/dev/null 2>&1; then
+  compose=(docker compose)
+elif command -v docker-compose >/dev/null 2>&1; then
+  compose=(docker-compose -f compose.yaml)
+else
+  echo 'Docker Compose is required; see docs/DEPLOY_UBUNTU.md' >&2
+  exit 1
+fi
+# Use exec for administrative actions: the worker releases its lock each cycle.
+if "${compose[@]}" ps --status running 2>/dev/null | grep -q worker; then
+  exec "${compose[@]}" exec -T worker python -m abank.main "$@"
+else
+  exec "${compose[@]}" run --rm -T worker python -m abank.main "$@"
+fi

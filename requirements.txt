@@ -1,0 +1,3 @@
+# Core publishing, monitoring and CLI use only the Python standard library.
+# Pillow is used only to composite the exact supplied brand onto API-generated covers.
+Pillow==11.3.0
