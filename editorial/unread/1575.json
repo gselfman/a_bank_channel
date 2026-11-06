@@ -1,0 +1,18 @@
+{
+  "id": 1575,
+  "source_url": "https://t.me/altynwallet/1575",
+  "first_seen_on": "2026-11-06",
+  "last_checked_on": "2026-11-06",
+  "last_checked_at": "2026-11-06T19:00:43+03:00",
+  "status": "reviewed",
+  "reviewed_on": "2026-11-06",
+  "decision": "filtered",
+  "topic": "80 стран в истории переводов на зарубежные карты",
+  "reason": "Пост показывает историческую географию переводов пользователей Altyn, а не запуск нового направления, изменение доступности или операционный статус. Статистику бренда нельзя приписывать A-Bank.",
+  "verification": "Official t.me/s/AltynWallet feed contains full text with direct VIEW IN TELEGRAM link to message 1575; Telemetr confirms the topic. Compared with A-Bank website, content/posts.json (35 posts), and posts/pending/ (2 items).",
+  "attempted_sources": [
+    "https://t.me/s/AltynWallet",
+    "https://t.me/altynwallet/1575",
+    "https://telemetr.me/content/altynwallet"
+  ]
+}
