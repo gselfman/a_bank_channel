@@ -4,11 +4,15 @@
   "first_seen_on": "2026-11-05",
   "last_checked_on": "2026-11-06",
   "status": "unread",
-  "reason": "Official Telegram post content not readable; public Telemetr preview lacks verifiable exact message ID, so its text cannot be attributed to this ID safely.",
+  "reason": "Telegram channel feed confirms the message ID exists but supplies no readable text or verifiable media transcription. Direct post/embed returns widget only; Telemetr provides nearby posts without exact mapping to this ID. Cannot safely attribute any product update.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/altynwallet/1573",
     "https://telemetr.me/content/altynwallet",
-    "web search for exact post ID"
-  ]
+    "web search for exact post ID",
+    "https://t.me/altynwallet/1573?embed=1",
+    "https://tgstat.ru/channel/@altynwallet",
+    "https://altyn.one/blog/"
+  ],
+  "last_checked_at": "2026-11-06T19:00:43+03:00"
 }
