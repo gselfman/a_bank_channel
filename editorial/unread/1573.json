@@ -4,7 +4,7 @@
   "first_seen_on": "2026-11-05",
   "last_checked_on": "2026-11-07",
   "status": "unread",
-  "reason": "Checked official t.me/s/AltynWallet, exact /1573 and public embed: message exists but official feed has no readable post text and direct page only embeds Telegram widget. Telemetr text is not linked to the original Telegram message ID. Attribution remains unverified; no publication authorized.",
+  "reason": "Evening recheck: the exact Telegram post and embed URLs remain inaccessible; Telemetr identifies @altynwallet but does not link the available text to this exact message ID. Exact-ID search has no reliable matching content; tgstat returns 403. Remains unread; no claims or publishing can be based on this ID.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/altynwallet/1573",
@@ -16,8 +16,9 @@
     "https://t.me/s/AltynWallet",
     "indexed exact ID search",
     "search indexes using the exact message URL and subject",
-    "https://a-bank.ru/"
+    "https://a-bank.ru/",
+    "2026-11-07 evening search for exact post ID"
   ],
-  "last_checked_at": "2026-11-07T13:57:18+03:00",
+  "last_checked_at": "2026-11-07T18:59:08+03:00",
   "possible_related_unverified_material": "Telemetr includes 11.11 shopping content dated Nov 5 12:00. Official ID 1573 was shown Nov 5 09:00 Moscow, but no direct ID link connects the texts. Not verified."
 }
