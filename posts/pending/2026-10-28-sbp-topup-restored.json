@@ -5,5 +5,6 @@
   "source": "https://t.me/altynwallet/1563",
   "publish_at": "2026-10-28T14:30:00+03:00",
   "image": "content/images/06.png",
-  "status": "ready"
+  "status": "hold",
+  "hold_reason": "Stale operational update from 2026-10-28: verify latest SBP and ruble-card service status before possible reissue. Already sent copies in Telegram are unaffected."
 }
