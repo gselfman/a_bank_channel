@@ -2,9 +2,9 @@
   "id": 1573,
   "source_url": "https://t.me/altynwallet/1573",
   "first_seen_on": "2026-11-05",
-  "last_checked_on": "2026-11-06",
+  "last_checked_on": "2026-11-07",
   "status": "unread",
-  "reason": "Telegram channel feed confirms the message ID exists but supplies no readable text or verifiable media transcription. Direct post/embed returns widget only; Telemetr provides nearby posts without exact mapping to this ID. Cannot safely attribute any product update.",
+  "reason": "Verified direct Telegram channel feed still shows message 1573 with no readable caption, and direct post page serves only a Telegram widget. Telemetr preview does not expose a direct message ID. Cannot safely attribute text to this ID or decide whether it is a product change.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/altynwallet/1573",
@@ -12,8 +12,10 @@
     "web search for exact post ID",
     "https://t.me/altynwallet/1573?embed=1",
     "https://tgstat.ru/channel/@altynwallet",
-    "https://altyn.one/blog/"
+    "https://altyn.one/blog/",
+    "https://t.me/s/AltynWallet",
+    "indexed exact ID search"
   ],
-  "last_checked_at": "2026-11-06T19:00:43+03:00",
+  "last_checked_at": "2026-11-07T09:01:03+03:00",
   "possible_related_unverified_material": "Telemetr displays a 2026-11-05 12:00 post about 11.11 shopping and using the international card; this may correspond to 09:00 Moscow, but Telemetr preview does not expose direct original Telegram message ID and the t.me/s entry for 1573 is textless. Do not mark as identified or publish from this tentative match."
 }
