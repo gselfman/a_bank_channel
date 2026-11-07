@@ -15,7 +15,8 @@ BRANCH = os.getenv("GITHUB_BRANCH", "main")
 TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT = os.environ["TELEGRAM_CHAT_ID"]
 DB = os.getenv("PUBLISHER_DB", "/var/lib/a-bank-publisher/sent.sqlite3")
-UA = "A-Bank-GitHub-Publisher/2.0"
+UA = "A-Bank-GitHub-Publisher/2.1"
+MAX_POSTS_PER_RUN = max(1, int(os.getenv("MAX_POSTS_PER_RUN", "2")))
 
 def fetch(url, fields=None):
     data = urllib.parse.urlencode(fields).encode("utf-8") if fields is not None else None
@@ -57,7 +58,11 @@ def main():
     if not isinstance(entries, list):
         raise RuntimeError("Expected GitHub directory listing")
     now = dt.datetime.now(dt.timezone.utc)
+    published_count = 0
     for item in sorted(entries, key=lambda x: x.get("name", "")):
+        if published_count >= MAX_POSTS_PER_RUN:
+            print("Per-run limit reached:", MAX_POSTS_PER_RUN)
+            break
         path = item.get("path", "")
         if item.get("type") != "file" or not path.endswith(".json"):
             continue
@@ -89,6 +94,7 @@ def main():
         db.execute("INSERT INTO sent(id,path,message_id,sent_at) VALUES (?,?,?,?)",
                    (post_id, path, mid, dt.datetime.now(dt.timezone.utc).isoformat()))
         db.commit()
+        published_count += 1
         print("Published:", post_id, mid)
 
 if __name__ == "__main__":
