@@ -4,7 +4,7 @@
   "first_seen_on": "2026-11-06",
   "last_checked_on": "2026-11-08",
   "status": "unread",
-  "reason": "Nov 8 recheck: direct t.me/altynwallet/1574 and embed URLs inaccessible; t.me/s/AltynWallet displays empty media-only post at this location, and Telemetr shows 11.11 promotional texts without original message-ID references. Searches for the exact URL/ID provide no reliable match. Do not attribute mirror contents to this ID.",
+  "reason": "14:00 MSK 2026-11-08: Official t.me/s/AltynWallet shows an empty media-only entry linked exactly to ID 1574; direct Telegram page only shows embed JavaScript, no caption/text. Telemetr latest list displays 11.11 shopping promos without a link matching message ID 1574; search indexes also do not establish ID-to-text match. Cannot verify original content; do not publish or classify as uninteresting.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/altynwallet/1574",
@@ -21,8 +21,13 @@
     "2026-11-08 https://t.me/s/AltynWallet",
     "2026-11-08 direct Telegram post and embed URLs",
     "2026-11-08 Telemetr latest posts",
-    "2026-11-08 exact-ID web search"
+    "2026-11-08 exact-ID web search",
+    "2026-11-08 14:00 https://t.me/s/AltynWallet VIEW IN TELEGRAM ID mapping",
+    "2026-11-08 14:00 https://t.me/altynwallet/1574 (embed only)",
+    "2026-11-08 14:00 https://telemetr.me/content/altynwallet (no matching ID)",
+    "2026-11-08 14:00 exact-ID indexed search",
+    "2026-11-08 14:00 https://altyn.one/blog/"
   ],
-  "last_checked_at": "2026-11-07T18:59:08+03:00",
+  "last_checked_at": "2026-11-08T14:00:42+03:00",
   "possible_related_unverified_material": "Telemetr includes 11.11 shopping content dated Nov 6 12:00. Official ID 1574 was shown Nov 6 09:00 Moscow, but no direct ID link connects the texts. Not verified."
 }
