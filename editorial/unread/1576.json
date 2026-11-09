@@ -1,0 +1,19 @@
+{
+  "id": 1576,
+  "source_url": "https://t.me/altynwallet/1576",
+  "first_seen_on": "2026-11-09",
+  "last_checked_on": "2026-11-09",
+  "last_checked_at": "2026-11-09T19:01:50+03:00",
+  "status": "reviewed",
+  "reviewed_on": "2026-11-09",
+  "decision": "filtered",
+  "topic": "Анонс конференции ЦИФКОМ’26 12 ноября",
+  "reason": "Официальный пост сообщает об участии представителя Altyn в конференции и промокоде на билеты, но не содержит работающего нового платёжного метода или изменения доступности функций A-Bank. Исключено как отраслевое мероприятие и брендовая промоакция.",
+  "verification": "Official https://t.me/s/AltynWallet renders the full text and its VIEW IN TELEGRAM link resolves to /1576. The feed displays post time but not the full publication date in accessible text. Cross-checked A-Bank's 35 source posts and ready queue.",
+  "attempted_sources": [
+    "https://t.me/s/AltynWallet",
+    "https://t.me/altynwallet/1576",
+    "https://telemetr.me/content/altynwallet",
+    "https://a-bank.ru/"
+  ]
+}
