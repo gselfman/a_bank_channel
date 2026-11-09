@@ -1,0 +1,19 @@
+{
+  "id": 1577,
+  "source_url": "https://t.me/altynwallet/1577",
+  "first_seen_on": "2026-11-09",
+  "last_checked_on": "2026-11-09",
+  "last_checked_at": "2026-11-09T19:01:50+03:00",
+  "status": "reviewed",
+  "reviewed_on": "2026-11-09",
+  "decision": "duplicate",
+  "topic": "Alipay из России: статья о подключении международной Visa и сингапурском BIN",
+  "reason": "Пост анонсирует информационный гайд на Дзене по привязке международной Visa к Alipay, не запуск нового способа оплаты. Практический сценарий уже отражён в ready-посте posts/pending/2026-10-29-visa-china-alipay-wechat.json. Не дублировать и не переводить читателей на брендовый блог Altyn.",
+  "verification": "Official https://t.me/s/AltynWallet renders the full text and its VIEW IN TELEGRAM link resolves to /1577. The feed displays post time but not the full publication date in accessible text. Cross-checked A-Bank's 35 source posts and ready queue.",
+  "attempted_sources": [
+    "https://t.me/s/AltynWallet",
+    "https://t.me/altynwallet/1577",
+    "https://telemetr.me/content/altynwallet",
+    "https://a-bank.ru/"
+  ]
+}
