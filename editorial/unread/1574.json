@@ -2,9 +2,9 @@
   "id": 1574,
   "source_url": "https://t.me/altynwallet/1574",
   "first_seen_on": "2026-11-06",
-  "last_checked_on": "2026-11-08",
+  "last_checked_on": "2026-11-09",
   "status": "unread",
-  "reason": "18:58 MSK 2026-11-08: The official Telegram feed t.me/s/AltynWallet still contains an empty/media-only entry with VIEW IN TELEGRAM URL matching message 1574. Direct page and ?embed=1 show no verifiable caption or message body. Telemetr posts of 5-6 Nov about 11.11 lack direct exact-ID mapping. Indexed searches and tgstat also fail to verify body against ID. No factual classification possible; retain unread.",
+  "reason": "09 Nov 2026 morning MSK: official t.me/s/AltynWallet has an empty/media-only entry, VIEW IN TELEGRAM link resolves exactly to https://t.me/altynwallet/1574. Direct post and ?embed=1 contain only Telegram embed script, no verifiable content. Telemetr latest @altynwallet posts are from Nov 5-6 without message IDs; exact-ID indexed search yielded no reliable text; TGStat 403. Still cannot map source text to ID, so not fact-checked and not publishable.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/altynwallet/1574",
@@ -31,8 +31,14 @@
     "2026-11-08 18:58 Moscow https://t.me/altynwallet/1574 and ?embed=1",
     "2026-11-08 18:58 Moscow Telemetr latest posts and channel stats",
     "2026-11-08 18:58 Moscow indexed exact URL / 1574 search",
-    "2026-11-08 18:58 Moscow TGStat (403 Forbidden)"
+    "2026-11-08 18:58 Moscow TGStat (403 Forbidden)",
+    "2026-11-09 08:58 MSK https://t.me/s/AltynWallet direct VIEW IN TELEGRAM mapping for 1574",
+    "2026-11-09 08:58 MSK https://t.me/altynwallet/1574",
+    "2026-11-09 08:58 MSK https://t.me/altynwallet/1574?embed=1",
+    "2026-11-09 08:58 MSK https://telemetr.me/content/altynwallet (posts lack exact source IDs)",
+    "2026-11-09 08:58 MSK exact ID search (altynwallet/1574)",
+    "2026-11-09 08:58 MSK https://tgstat.ru/channel/@altynwallet (403 Forbidden)"
   ],
-  "last_checked_at": "2026-11-08T18:58:14+03:00",
+  "last_checked_at": "2026-11-09T08:58:00+03:00",
   "possible_related_unverified_material": "Telemetr includes 11.11 shopping content dated Nov 6 12:00. Official ID 1574 was shown Nov 6 09:00 Moscow, but no direct ID link connects the texts. Not verified."
 }
