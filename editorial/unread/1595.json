@@ -1,0 +1,19 @@
+{
+  "id": 1595,
+  "source_url": "https://t.me/altynwallet/1595",
+  "source_date": "2026-11-24",
+  "first_seen_on": "2026-11-24",
+  "last_checked_on": "2026-11-24",
+  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "status": "reviewed",
+  "reviewed_on": "2026-11-24",
+  "decision": "duplicate",
+  "reason": "Официальный пост от 24.11.2026: 20 недавних получателей СБП, PDF-квитанции в Telegram, пополнение через Arbitrum, изменения PIN и сообщений об ошибках. Уже в очереди posts/pending/2026-11-24-wallet-november-updates.json на 24.11 19:30; не повторять.",
+  "attempted_sources": [
+    "https://t.me/s/AltynWallet",
+    "https://t.me/altynwallet/1595",
+    "https://telemetr.me/content/altynwallet",
+    "https://telemoon.app/channel/altynwallet"
+  ],
+  "verification": "Официальная лента с точной ссылкой ID; сверено с очередью GitHub."
+}
