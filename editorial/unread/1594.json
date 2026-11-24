@@ -1,0 +1,19 @@
+{
+  "id": 1594,
+  "source_url": "https://t.me/altynwallet/1594",
+  "source_date": "2026-11-24",
+  "first_seen_on": "2026-11-24",
+  "last_checked_on": "2026-11-24",
+  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "status": "reviewed",
+  "reviewed_on": "2026-11-24",
+  "decision": "duplicate",
+  "reason": "Публикация о риске P2P от 24.11.2026; соответствующая инструкция уже в очереди posts/pending/2026-11-25-p2p-exchange-safety.json на 25.11 09:30. Не повторять.",
+  "attempted_sources": [
+    "https://t.me/s/AltynWallet",
+    "https://t.me/altynwallet/1594",
+    "https://telemetr.me/content/altynwallet",
+    "https://telemoon.app/channel/altynwallet"
+  ],
+  "verification": "Официальная лента с точной ссылкой ID; сверено с очередью GitHub."
+}
