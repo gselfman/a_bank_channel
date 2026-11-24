@@ -2,9 +2,9 @@
   "id": 1573,
   "source_url": "https://t.me/altynwallet/1573",
   "first_seen_on": "2026-11-05",
-  "last_checked_on": "2026-11-10",
+  "last_checked_on": "2026-11-24",
   "status": "unread",
-  "reason": "10 Nov 2026 09:00 MSK: exact message ID verified in official t.me/s/AltynWallet and Telemoon /channel/altynwallet (dated 5 Nov 2026 09:00 UTC), but both sources show No text; direct message https://t.me/altynwallet/1573 renders only a Telegram widget/embed without post body. Telemetr displays unrelated text without original message IDs; exact-ID web searches yield no reliable match. Content and topic are unverified. Do not infer 11.11 topic from neighbouring posts or publish.",
+  "reason": "24.11.2026: Telemoon /posts подтверждает точный ID 1573, дату 05.11.2026 09:00 UTC, но показывает No text. Прямая страница Telegram, вариант /s/ и TG.ME недоступны; официальная лента больше не содержит этот ID в текущем окне. Telemetr и поиск не дали текста с точным ID. Содержание не установлено. Не переносить соседние сообщения.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/altynwallet/1573",
@@ -56,8 +56,17 @@
     "2026-11-10 09:00 MSK https://telemetr.me/content/altynwallet (no exact source ID on text)",
     "2026-11-10 09:00 MSK https://telemoon.app/channel/altynwallet (exact source ID displayed as No text)",
     "2026-11-10 09:00 MSK indexed exact-ID and URL search for 1573",
-    "2026-11-10 09:00 MSK Telegram ?embed=1 on ID 1573 (inaccessible)"
+    "2026-11-10 09:00 MSK Telegram ?embed=1 on ID 1573 (inaccessible)",
+    "2026-11-24 https://t.me/s/altynwallet",
+    "2026-11-24 https://t.me/s/AltynWallet",
+    "2026-11-24 https://t.me/altynwallet/1573",
+    "2026-11-24 https://telemetr.me/content/altynwallet",
+    "2026-11-24 https://telemoon.app/channel/altynwallet/posts",
+    "2026-11-24 https://telemoon.app/channel/altynwallet",
+    "2026-11-24 Web search: exact URL/ID 1573 and related channel text",
+    "2026-11-24 https://tg.me/altynwallet/1573",
+    "2026-11-24 https://t.me/s/AltynWallet/1573"
   ],
-  "last_checked_at": "2026-11-10T09:00:57+03:00",
+  "last_checked_at": "2026-11-24T19:01:01+03:00",
   "possible_related_unverified_material": "Telemetr includes 11.11 shopping content dated Nov 5 12:00. Official ID 1573 was shown Nov 5 09:00 Moscow, but no direct ID link connects the texts. Not verified."
 }
