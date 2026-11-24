@@ -5,5 +5,6 @@
   "source": "https://t.me/altynwallet/1581",
   "publish_at": "2026-11-24T19:30:00+03:00",
   "image": "content/images/20.png",
-  "status": "ready"
+  "status": "hold",
+  "hold_reason": "Paused 2026-11-24: source is Nov 11, not one of latest channel posts; recheck current service status and editorial freshness before scheduling. No modification to previously sent Telegram messages."
 }
