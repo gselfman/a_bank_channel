@@ -1,0 +1,22 @@
+{
+  "id": 1580,
+  "source_url": "https://t.me/altynwallet/1580",
+  "source_date": "2026-11-11",
+  "first_seen_on": "2026-11-24",
+  "last_checked_on": "2026-11-24",
+  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "status": "reviewed",
+  "reason": "Предупреждение о поддельной поддержке Altyn. Общие правила безопасности уже раскрыты в исходном посте №5; конкретный мошеннический аккаунт имитирует другой бренд.",
+  "attempted_sources": [
+    "https://t.me/s/altynwallet",
+    "https://t.me/s/AltynWallet",
+    "https://t.me/altynwallet/1580",
+    "https://telemetr.me/content/altynwallet",
+    "https://telemoon.app/channel/altynwallet/posts",
+    "https://telemoon.app/channel/altynwallet",
+    "Web search: exact URL/ID 1580 and related channel text"
+  ],
+  "reviewed_on": "2026-11-24",
+  "decision": "duplicate",
+  "verification": "Официальная лента с точной ссылкой ID; сверено с Telemoon там, где доступна запись, с 35 исходными постами и очередью GitHub."
+}
