@@ -1,0 +1,22 @@
+{
+  "id": 1581,
+  "source_url": "https://t.me/altynwallet/1581",
+  "source_date": "2026-11-11",
+  "first_seen_on": "2026-11-24",
+  "last_checked_on": "2026-11-24",
+  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "status": "reviewed",
+  "reason": "Восстановление рублёвой карты подтверждено официальным постом от 11.11.2026 15:26 UTC и Telemoon. Уже существует posts/pending/2026-11-24-ruble-mir-card-restored.json со статусом hold из-за давности. Не создавать дубликат и не выдавать старое восстановление за сегодняшнее.",
+  "attempted_sources": [
+    "https://t.me/s/altynwallet",
+    "https://t.me/s/AltynWallet",
+    "https://t.me/altynwallet/1581",
+    "https://telemetr.me/content/altynwallet",
+    "https://telemoon.app/channel/altynwallet/posts",
+    "https://telemoon.app/channel/altynwallet",
+    "Web search: exact URL/ID 1581 and related channel text"
+  ],
+  "reviewed_on": "2026-11-24",
+  "decision": "duplicate",
+  "verification": "Официальная лента с точной ссылкой ID; сверено с Telemoon там, где доступна запись, с 35 исходными постами и очередью GitHub."
+}
