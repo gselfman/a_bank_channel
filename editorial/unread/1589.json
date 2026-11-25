@@ -3,10 +3,10 @@
   "source_url": "https://t.me/altynwallet/1589",
   "source_date": null,
   "first_seen_on": "2026-11-24",
-  "last_checked_on": "2026-11-24",
-  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "last_checked_on": "2026-11-25",
+  "last_checked_at": "2026-11-25T19:03:39+03:00",
   "status": "unread",
-  "reason": "Пропуск последовательности между подтверждёнными 1588 и 1590; прямой URL недоступен, официальная лента и Telemoon не показывают этот ID. Существование отдельного публичного сообщения и его дата не установлены; возможное удаление или технический пропуск. Учитывать отдельно как непроверенный ID, не приписывать соседний пост.",
+  "reason": "25.11.2026: Прямой URL недоступен; нет записи в официальной ленте или Telemoon; существование отдельного сообщения не подтверждено. Не создавать дополнительные предположительные ID.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/s/AltynWallet",
@@ -14,7 +14,12 @@
     "https://telemetr.me/content/altynwallet",
     "https://telemoon.app/channel/altynwallet/posts",
     "https://telemoon.app/channel/altynwallet",
-    "Web search: exact URL/ID 1589 and related channel text"
+    "Web search: exact URL/ID 1589 and related channel text",
+    "2026-11-25 https://t.me/s/AltynWallet",
+    "2026-11-25 https://t.me/altynwallet/1589",
+    "2026-11-25 https://telemoon.app/channel/altynwallet/posts",
+    "2026-11-25 https://telemetr.me/content/altynwallet",
+    "2026-11-25 exact-ID indexed search: 1589"
   ],
   "existence_confirmed": false
 }
