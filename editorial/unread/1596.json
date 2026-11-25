@@ -3,12 +3,20 @@
   "source_url": "https://t.me/altynwallet/1596",
   "first_seen_on": "2026-11-25",
   "last_checked_on": "2026-11-25",
-  "status": "unread",
-  "reason": "User requested publication, but direct Telegram URL inaccessible and exact-ID searches did not yield verified post text. Cannot establish content or suitable image.",
+  "status": "reviewed",
+  "reason": "Текст достоверно прочитан в официальной ленте и Telemoon с точным ID: Чёрная пятница 27 ноября, существующие Visa, рублёвая карта и QR. Не продуктовая новость; инструкция на 25.11 уже в очереди. Подготовлен самостоятельный календарный гайд на 26.11, но запись ready не подтверждена: GitHub create_file вернул 409 (Timed out validating the rule), повторный fetch — 404. Требуется повторная проверка очереди и попытка записи гайда при следующем цикле, если ещё актуален.",
   "attempted_sources": [
+    "https://t.me/s/AltynWallet",
     "https://t.me/altynwallet/1596",
-    "web search for exact 1596 ID and AltynWallet",
-    "https://telemoon.app/channel/altynwallet",
-    "https://telemetr.me/content/altynwallet"
-  ]
+    "https://t.me/altynwallet/1596?embed=1",
+    "https://telemoon.app/channel/altynwallet/posts",
+    "https://telemetr.me/content/altynwallet",
+    "https://a-bank.ru/"
+  ],
+  "reviewed_on": "2026-11-25",
+  "last_checked_at": "2026-11-25T19:03:39+03:00",
+  "source_date": "2026-11-25",
+  "source_published_at": "2026-11-25T12:08:00Z",
+  "decision": "filtered",
+  "verification": "Официальная лента: ссылка VIEW IN TELEGRAM ведёт точно на /1596; Telemoon совпадает по тексту, ID и времени 12:08 UTC = 15:08 МСК."
 }
