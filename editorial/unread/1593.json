@@ -3,10 +3,10 @@
   "source_url": "https://t.me/altynwallet/1593",
   "source_date": "2026-11-23",
   "first_seen_on": "2026-11-24",
-  "last_checked_on": "2026-11-24",
-  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "last_checked_on": "2026-11-25",
+  "last_checked_at": "2026-11-25T19:03:39+03:00",
   "status": "unread",
-  "reason": "ID и дата подтверждены: 23.11.2026 10:08 UTC. Telegram показывает только embed/пустое тело, Telemoon — No text. Telemetr показывает другие публикации без ID, сопоставление недостаточно.",
+  "reason": "25.11.2026: Telemoon 23.11 10:08 UTC No text; официальная лента без тела. Telemetr показывает материал про зарплату в совпадающее время 13:08 МСК, но без точного ID, не считать подтверждённым.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/s/AltynWallet",
@@ -14,6 +14,11 @@
     "https://telemetr.me/content/altynwallet",
     "https://telemoon.app/channel/altynwallet/posts",
     "https://telemoon.app/channel/altynwallet",
-    "Web search: exact URL/ID 1593 and related channel text"
+    "Web search: exact URL/ID 1593 and related channel text",
+    "2026-11-25 https://t.me/s/AltynWallet",
+    "2026-11-25 https://t.me/altynwallet/1593",
+    "2026-11-25 https://telemoon.app/channel/altynwallet/posts",
+    "2026-11-25 https://telemetr.me/content/altynwallet",
+    "2026-11-25 exact-ID indexed search: 1593"
   ]
 }
