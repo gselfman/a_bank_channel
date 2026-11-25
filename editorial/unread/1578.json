@@ -3,10 +3,10 @@
   "source_url": "https://t.me/altynwallet/1578",
   "source_date": "2026-11-10",
   "first_seen_on": "2026-11-24",
-  "last_checked_on": "2026-11-24",
-  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "last_checked_on": "2026-11-25",
+  "last_checked_at": "2026-11-25T19:03:39+03:00",
   "status": "unread",
-  "reason": "Официальная лента показывает пустое тело; прямой URL только embed; Telemoon точный ID 10.11.2026 09:21 UTC — No text; Telemetr и поиск не дали сопоставимого текста.",
+  "reason": "25.11.2026: Telemoon /posts: 10.11 09:21 UTC, No text; прямая Telegram-страница только embed; поиск не дал точного текста.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/s/AltynWallet",
@@ -14,6 +14,11 @@
     "https://telemetr.me/content/altynwallet",
     "https://telemoon.app/channel/altynwallet/posts",
     "https://telemoon.app/channel/altynwallet",
-    "Web search: exact URL/ID 1578 and related channel text"
+    "Web search: exact URL/ID 1578 and related channel text",
+    "2026-11-25 https://t.me/s/AltynWallet",
+    "2026-11-25 https://t.me/altynwallet/1578",
+    "2026-11-25 https://telemoon.app/channel/altynwallet/posts",
+    "2026-11-25 https://telemetr.me/content/altynwallet",
+    "2026-11-25 exact-ID indexed search: 1578"
   ]
 }
