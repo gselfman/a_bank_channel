@@ -3,10 +3,10 @@
   "source_url": "https://t.me/altynwallet/1586",
   "source_date": "2026-11-17",
   "first_seen_on": "2026-11-24",
-  "last_checked_on": "2026-11-24",
-  "last_checked_at": "2026-11-24T19:01:01+03:00",
+  "last_checked_on": "2026-11-25",
+  "last_checked_at": "2026-11-25T19:03:39+03:00",
   "status": "unread",
-  "reason": "Официальный ID и заголовок «Айсберг возможностей» подтверждены; 17.11.2026 10:56 UTC. Основное содержание в недоступной иллюстрации. Telemoon даёт только подпись, поисковый репост без оригинального ID/изображения не подтверждает содержание. Не угадывать функции.",
+  "reason": "25.11.2026: Точная подпись «Айсберг возможностей» и 17.11 10:56 UTC в официальной ленте/Telemoon; содержимое иллюстрации не доступно; не угадывать.",
   "attempted_sources": [
     "https://t.me/s/altynwallet",
     "https://t.me/s/AltynWallet",
@@ -14,6 +14,11 @@
     "https://telemetr.me/content/altynwallet",
     "https://telemoon.app/channel/altynwallet/posts",
     "https://telemoon.app/channel/altynwallet",
-    "Web search: exact URL/ID 1586 and related channel text"
+    "Web search: exact URL/ID 1586 and related channel text",
+    "2026-11-25 https://t.me/s/AltynWallet",
+    "2026-11-25 https://t.me/altynwallet/1586",
+    "2026-11-25 https://telemoon.app/channel/altynwallet/posts",
+    "2026-11-25 https://telemetr.me/content/altynwallet",
+    "2026-11-25 exact-ID indexed search: 1586"
   ]
 }
